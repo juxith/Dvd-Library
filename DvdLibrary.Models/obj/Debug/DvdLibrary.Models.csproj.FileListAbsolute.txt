@@ -1,0 +1,6 @@
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Models\bin\Debug\DvdLibrary.Models.dll
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Models\bin\Debug\DvdLibrary.Models.pdb
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Models\obj\Debug\DvdLibrary.Models.csprojResolveAssemblyReference.cache
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Models\obj\Debug\DvdLibrary.Models.csproj.CoreCompileInputs.cache
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Models\obj\Debug\DvdLibrary.Models.dll
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Models\obj\Debug\DvdLibrary.Models.pdb

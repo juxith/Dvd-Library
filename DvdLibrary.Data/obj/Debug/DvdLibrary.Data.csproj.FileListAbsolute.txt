@@ -1,0 +1,15 @@
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\bin\Debug\DvdLibrary.Data.dll.config
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\bin\Debug\DvdLibrary.Data.dll
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\bin\Debug\DvdLibrary.Data.pdb
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\bin\Debug\DvdLibrary.Models.dll
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\bin\Debug\EntityFramework.dll
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\bin\Debug\DvdLibrary.Models.pdb
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\bin\Debug\EntityFramework.xml
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\obj\Debug\DvdLibrary.Data.csprojResolveAssemblyReference.cache
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\obj\Debug\DvdLibrary.Data.csproj.CoreCompileInputs.cache
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\obj\Debug\DvdLibrary.Data.dll
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\obj\Debug\DvdLibrary.Data.pdb
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\obj\Debug\DvdLibrary.Data.Migrations.init.resources
+C:\Repos\dotnet-judy-thao\FullStackDev\DvdLibrary\DvdLibrary.Data\obj\Debug\DvdLibrary.Data.csproj.GenerateResource.Cache
